@@ -27,6 +27,8 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [opencv启动](https://github.com/zh2177132/rain/issues/1).
+
 
 ### Jekyll Themes
 
